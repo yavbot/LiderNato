@@ -1,0 +1,125 @@
+#caja1 {
+  background-color: white;
+  position: relative;
+  width: 500px;
+  height: 400px;
+  left: 90px;
+}
+#caja2 {
+  background-color: white;
+  position: relative;
+  width: 500px;
+  height: 400px;
+  left: 750px;
+  top: -400px;
+}
+#caja3 {
+  background-color: white;
+  position: relative;
+  width: 500px;
+  height: 400px;
+  left: 90px;
+  top: -360px;
+}
+#caja4 {
+  background-color: white;
+  position: relative;
+  width: 500px;
+  height: 400px;
+  left: 750px;
+  top: -760px;
+}
+#titulo {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+#fotoCaja1 {
+  width: 400px;
+  height: 200px;
+  position: relative;
+  left: 50px;
+  top: 20px;
+}
+#fotoCaja2 {
+  width: 400px;
+  height: 200px;
+  position: relative;
+  left: 60px;
+  top: 20px;
+}
+#fotoCaja3 {
+  width: 400px;
+  height: 200px;
+  position: relative;
+  left: 50px;
+  top: 20px;
+}
+#fotoCaja4 {
+  width: 400px;
+  height: 200px;
+  position: relative;
+  left: 50px;
+  top: 20px;
+}
+#tituloCajitas1 {
+  text-align: center;
+  border: 2px;
+}
+#tituloCajitas2 {
+  text-align: center;
+}
+#tituloCajitas3 {
+  text-align: center;
+}
+#tituloCajitas4 {
+  text-align: center;
+}
+#boton1 {
+    position: relative;
+  border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #2e518b; /*color botón*/
+  color: #ffffff; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: "Helvetica", sans-serif; /*tipografía texto*/
+  border-radius: 50px; /*bordes redondos*/
+  left: 200px;
+}
+#boton2 {
+    position: relative;
+  border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #2e518b; /*color botón*/
+  color: #ffffff; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: "Helvetica", sans-serif; /*tipografía texto*/
+  border-radius: 50px; /*bordes redondos*/
+  left: 200px;
+}
+#boton3 {
+    position: relative;
+  border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #2e518b; /*color botón*/
+  color: #ffffff; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: "Helvetica", sans-serif; /*tipografía texto*/
+  border-radius: 50px; /*bordes redondos*/
+  left: 200px;
+}
+#boton4 {
+position: relative;
+  border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #2e518b; /*color botón*/
+  color: #ffffff; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: "Helvetica", sans-serif; /*tipografía texto*/
+  border-radius: 50px; /*bordes redondos*/
+  left: 200px;
+}

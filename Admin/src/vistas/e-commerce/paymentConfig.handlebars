@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="/css/cart/paymentConfig.css">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Configuración de compra</title>
+</head>
+
+<body>
+
+    <div id="container">
+        <div id="card">
+            <div id="card-body">
+                <form action="/cart/finish-sell" method="POST" enctype="multipart/form-data">
+<div id="form-container">
+                        <label for="address" id="form-label">Dirección de entrega:</label>
+                        <input type="text" id="form-control" id="address" name="address" tabindex="1" required>
+                    </div>
+                    <p>El pago se hace unicamente al momento de la entrega y puede ser en efectivo o transferencia.</p>
+
+                    <button id="btn-primary" type="submit">Confirmar Compra</button>
+                    <a href="https://indieec.github.io/" id="btn-secondary">Cancelar</a>
+                </form>
+            </div>
+        </div>
+        <div id="hero">
+            <img src="/images/undraw_web_shopping_re_owap.svg" alt="undraw-image" id="img-fluid">
+        </div>
+    </div>
+</body>
