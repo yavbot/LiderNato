@@ -1,4 +1,0 @@
--Proyecto LiderNato
--Express
--Mysql
--TypeOrm
